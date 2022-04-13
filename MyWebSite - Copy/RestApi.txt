@@ -1,0 +1,3 @@
+https://www.googleapis.com/youtube/v3/channels?key=AIzaSyBlMlVXMC0pbdTFRHbkFGvkOfOgGaymtQs&part=contentDetails&id=UC2QFN3hxSjRy6-KjiMurEzw 
+
+https://www.googleapis.com/youtube/v3/playlistItems?key= AIzaSyBlMlVXMC0pbdTFRHbkFGvkOfOgGaymtQs&playlistId=UU2QFN3hxSjRy6-KjiMurEzw&part=snippet,id&maxResults=10
